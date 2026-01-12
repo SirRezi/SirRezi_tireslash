@@ -18,7 +18,7 @@ A FiveM script that allows players to slash vehicle tires using a knife. Built w
 ## Installation
 
 1.  Download the script and put it in your `resources` directory.
-2.  Add `ensure SirRezi_wheels` to your `server.cfg`.
+2.  Add `ensure SirRezi_tireslash` to your `server.cfg`.
 3.  Ensure `ox_lib` and `ox_target` are started **before** this script.
 
 ## Configuration
@@ -40,3 +40,4 @@ You can configure the script in `config.lua`:
 ## License
 
 This project is licensed under the MIT License.
+
